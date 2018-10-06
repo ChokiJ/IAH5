@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "88907c50-c401-489e-84ed-dab0db02a4c7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "autumn_logo": {
+      "ver": "1.0.3",
+      "uuid": "371217a2-a7a7-4436-82a9-5955b53e8e6b",
+      "rawTextureUuid": "88907c50-c401-489e-84ed-dab0db02a4c7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1.5,
+      "offsetY": -1.5,
+      "trimX": 24,
+      "trimY": 3,
+      "width": 83,
+      "height": 125,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
